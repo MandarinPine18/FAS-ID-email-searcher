@@ -58,14 +58,3 @@ finally:
         fas.auth_logout(auth_params=auth_params)
     else:
         pass
-
-#selfInfoTotal = f.get_user_info(auth_params=auth_params)
-#selfInfo = selfInfoTotal[1]
-#print selfInfo['id']
-
-
-
-#if f1.verify_password(username='ethanparab', password='EthuLaddoo$01'):
-#    print "password is valid"
-#else:
-#    print "password is invalid"
