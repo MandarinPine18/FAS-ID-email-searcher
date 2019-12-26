@@ -6,3 +6,5 @@ Follow the instructions to install the Python Fedora module and its dependencies
 https://github.com/fedora-infra/python-fedora
 
 There are no dependencies beyond this one and the dependencies of Python Fedora.
+
+Use git to download these files and run fasidfinder.py with a Python 2.7 interpreter.
